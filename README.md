@@ -3,8 +3,8 @@
 
 **Focus**: Sensor Fusion, Bare Metal Basics, Low-Level Protocols.
 
-- [x] **Project**: Car v2 — STM32, PWM, Basic Radio (HC-05).
-- [x] **Project**: Glove MK2 — MPU9250 Fusion, DMA/ADC, Soft UART, Gesture Recognition.
+- [x] [**Project**: Car v2.5 — STM32, PWM, Basic Radio (HC-05).](https://github.com/suneids/Car)
+- [x] [**Project**: Glove MK2 — MPU9250 Fusion, DMA/ADC, Soft UART, Gesture Recognition.](https://github.com/suneids/Glove)
 - [ ] **Skill**: PCB Design — Transition from 2-layer to 4-layer boards (EMI/EMC focus).
 
 ## Phase 2: Biomechanics (Feb 2026 - Feb 2027)
