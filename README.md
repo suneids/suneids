@@ -1,6 +1,6 @@
 <h2 align="center"><bold>🛠 Engineering Roadmap: From Sensors to Exoskeletons</bold></h2>
 
-## Phase 1: Anatomy (Current - Feb 2026)
+## Phase 1: Anatomy (Jul 2025 - Feb 2026)
 
 **Focus**: Sensor Fusion, Bare Metal Basics, Low-Level Protocols.
 
