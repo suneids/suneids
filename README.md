@@ -61,6 +61,8 @@
 <details>
 <summary>Show steps</summary>
 
+**Focus**: Upgrade the developed devices to new versions
+
 - [ ] Glove Mk.3
 
 
