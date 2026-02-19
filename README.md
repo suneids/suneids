@@ -55,3 +55,12 @@
 - [ ] Project: Full Exoskeleton Movement System — Merging glove control, IK, and high-power actuation into a wearable frame.
 
 </details>
+
+## Phase 4: Improvement of Developments (2029 - 2030) ⏰
+
+<details>
+<summary>Show steps</summary>
+
+
+
+</details>
