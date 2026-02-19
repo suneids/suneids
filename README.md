@@ -63,6 +63,8 @@
 
 **Focus**: Upgrade the developed devices to new versions
 
+[Details](github.com/Phase5plans)
+
 - [ ] Glove Mk.3
 
 
