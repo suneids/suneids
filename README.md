@@ -20,11 +20,17 @@
 <details>
 <summary>Show steps</summary>
 
-**Focus**: Inverse Kinematics (IK), Robotics, Custom Actuators.
+**Core Track**
 
 - [ ] **Innovation**: Custom cable-driven tension sensors with integrated encoders.
 - [ ] **Project**: Quadruped (MK1) — 4-leg movement, basic stability.
 - [ ] **Project**: Hexapod (MK2) — Remote presence, 18-DOF control, IK implementation.
+      
+**Support / Infrastructure**
+
+- [ ] **Project**: Laboratory Power Supply.
+- [ ] **Project**: Room Lighting System.
+- [ ] **Project**: Micro-greenhouse / plant automation platform.
 
 </details>
 
