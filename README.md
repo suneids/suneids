@@ -31,7 +31,7 @@
 - [ ] **Project**: Laboratory Power Supply.
 - [ ] **Project**: Room Lighting System.
 - [ ] **Project**: Micro-greenhouse / plant automation platform.
-
+- [ ] **Project**: Incductive tension sensors.
 </details>
 
 
