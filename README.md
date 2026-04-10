@@ -8,9 +8,9 @@
 
 **Focus**: Sensor Fusion, Bare Metal Basics, Low-Level Protocols.
 
-- [x] [**Project**: Car v2.5 — STM32, PWM, Basic Radio (HC-05).](https://github.com/suneids/Car)
-- [x] [**Project**: Glove MK2 — MPU6500 Fusion, DMA/ADC, Soft UART, Gesture Recognition.](https://github.com/suneids/Glove)
-- [x] **Skill**: PCB Design — 2-layer boards (EMI/EMC focus).
+- [x] [**Project**: Car v2.5 — STM32, PWM, Basic Radio (HC-05)](https://github.com/suneids/Car)
+- [x] [**Project**: Glove MK2 — MPU6500 Fusion, DMA/ADC, Soft UART, Gesture Recognition](https://github.com/suneids/Glove)
+- [x] **Skill**: PCB Design — 2-layer boards (EMI/EMC focus)
 
 </details>
 
@@ -22,16 +22,16 @@
 
 **Core Track**
 
-- [ ] **Innovation**: Custom cable-driven tension sensors with integrated encoders.
-- [ ] **Project**: Quadruped (MK1) — 4-leg movement, basic stability.
-- [ ] **Project**: Hexapod (MK2) — Remote presence, 18-DOF control, IK implementation.
+- [ ] **Innovation**: Custom cable-driven tension sensors with integrated encoders
+- [ ] **Project**: Quadruped (MK1) — 4-leg movement, basic stability
+- [ ] **Project**: Hexapod (MK2) — Remote presence, 18-DOF control, IK implementation
       
 **Support / Infrastructure**
 
-- [ ] **Project**: Laboratory Power Supply.
-- [ ] **Project**: Room Lighting System.
-- [ ] **Project**: Micro-greenhouse / plant automation platform.
-- [ ] **Project**: Incductive tension sensors.
+- [x] **Project**: Laboratory Power Supply Mk1
+- [ ] **Project**: Room Lighting System
+- [ ] **Project**: Micro-greenhouse / plant automation platform
+- [ ] **Project**: Incductive tension sensors
 </details>
 
 
