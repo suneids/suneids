@@ -22,8 +22,8 @@
 
 **Core Track**
 
-- [ ] **Innovation**: Custom cable-driven tension sensors with integrated encoders
-- [ ] **Project**: Quadruped (MK1) — 4-leg movement, basic stability
+- [ ] ~~**Innovation**: Custom cable-driven tension sensors with integrated encoders~~
+- [ ] ~~**Project**: Quadruped (MK1) — 4-leg movement, basic stability~~
 - [ ] **Project**: Hexapod (MK2) — Remote presence, 18-DOF control, IK implementation
       
 **Support / Infrastructure**
@@ -31,8 +31,8 @@
 - [x] [**Project**: Laboratory Power Supply Mk1](https://github.com/suneids/PowerSupply)
 - [ ] **Project**: HAL for STM32G0
 - [ ] **Project**: Room Lighting System
-- [ ] [**Project**: Micro-greenhouse / plant automation platform](https://github.com/suneids/Greenhouse)
-- [ ] **Project**: Incductive tension sensors
+- [x] [**Project**: Micro-greenhouse / plant automation platform](https://github.com/suneids/Greenhouse)
+- [ ] **Project**: Inductive tension sensors
 </details>
 
 
