@@ -1,4 +1,4 @@
-<h2 align="center"><bold>🛠 Engineering Roadmap: From Sensors to Exoskeletons</bold></h2>
+<h2 align="center">🛠 Engineering Roadmap: From Sensors to Exoskeletons</h2>
 
 
 ## Phase 1: Anatomy (Jul 2025 - Feb 2026) 🏁
@@ -22,9 +22,8 @@
 
 **Core Track**
 
-- [ ] ~~**Innovation**: Custom cable-driven tension sensors with integrated encoders~~
-- [ ] ~~**Project**: Quadruped (MK1) — 4-leg movement, basic stability~~
-- [ ] **Project**: Hexapod (MK2) — Remote presence, 18-DOF control, IK implementation
+- [ ] ~~**Project**: Quadruped (MK1) — 4-leg movement, basic stability~~ — cancelled, replaced by Hexapod-first path
+- [ ] **Project**: Hexapod (MK1) — Remote presence, 18-DOF control, IK implementation
       
 **Support / Infrastructure**
 
@@ -32,7 +31,7 @@
 - [ ] **Project**: HAL for STM32G0
 - [ ] **Project**: Room Lighting System
 - [x] [**Project**: Micro-greenhouse / plant automation platform](https://github.com/suneids/Greenhouse)
-- [ ] **Project**: Inductive tension sensors
+- [ ] **Project**: Inductive flex/tension sensors
 </details>
 
 
@@ -43,11 +42,15 @@
 
 **Focus**: Complex Systems, Aesthetics, Advanced Integration.
 
+**Core Track**
 - [ ] **Project**: Octopod (MK3) — Dwarven-style design, high-torque locomotion.
 - [ ] **Project**: The Mask — Integration of sensors, voice/visual feedback, and base for the manipulator.
 - [ ] **Project**: The Third Arm (Viktor/LoL Style) — Shoulder-mounted manipulator integrated with the Mask's control system.
 - [ ] **Skill**: Cyber-Aesthetics — Blending FreeCAD mechanical design with ergonomic wearable forms.
 - [ ] **Skill**: PCB Design — Transition from 2 to 4-layer boards (EMI/EMC focus).
+
+**Support / Infrastructure**
+- [ ] **Research**: Custom cable-driven tension sensors with integrated encoders
 
 </details>
 
