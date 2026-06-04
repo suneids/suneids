@@ -29,7 +29,7 @@
 
 - [x] [**Project**: Laboratory Power Supply Mk1](https://github.com/suneids/PowerSupply)
 - [ ] **Project**: HAL for STM32G0
-- [ ] **Project**: Room Lighting System
+- [x] **Project**: Room Lighting System
 - [x] [**Project**: Micro-greenhouse / plant automation platform](https://github.com/suneids/Greenhouse)
 - [ ] **Project**: Inductive flex/tension sensors
 </details>
