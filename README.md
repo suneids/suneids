@@ -28,7 +28,7 @@
 **Support / Infrastructure**
 
 - [x] [**Project**: Laboratory Power Supply Mk1](https://github.com/suneids/PowerSupply)
-- [ ] **Project**: HAL for STM32G0
+- [x] **Project**: HAL for STM32G0
 - [x] [**Project**: Room Lighting System](https://github.com/suneids/Light)
 - [x] [**Project**: Micro-greenhouse / plant automation platform](https://github.com/suneids/Greenhouse)
 - [ ] **Project**: Inductive flex/tension sensors
