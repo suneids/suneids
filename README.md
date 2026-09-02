@@ -1,24 +1,27 @@
-<h2 align="center">🛠 Engineering Roadmap: From Sensors to Exoskeletons</h2>
+<table style="width:100%; border:1px solid #30363d;">
+<tr>
+<td align="center">
 
+<h2>🛠 Engineering Roadmap: From Sensors to Exoskeletons</h2>
 
-## Phase 1: Anatomy (Jul 2025 - Feb 2026) 🏁
+<i>
+A long-term engineering journey from embedded systems and sensors to cybernetic augmentation. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</i>
+</td>
+</tr>
 
-<details>
-<summary>Show steps</summary>
+<tr><td><details>
+<summary><h2>Phase 1: Anatomy (Jul 2025 - Feb 2026) 🏁</h2></summary>
 
-**Focus**: Sensor Fusion, Bare Metal Basics, Low-Level Protocols.
+**Focus**: Sensor Fusion, Bare Metal Basics, Low-Level Protocols
 
 - [x] [**Project**: Car v2.5 — STM32, PWM, Basic Radio (HC-05)](https://github.com/suneids/Car)
 - [x] [**Project**: Glove MK2 — MPU6500 Fusion, DMA/ADC, Soft UART, Gesture Recognition](https://github.com/suneids/Glove)
 - [x] **Skill**: PCB Design — 2-layer boards (EMI/EMC focus)
 
-</details>
+</details></td></tr>
 
-
-## Phase 2: Biomechanics (Feb 2026 - Feb 2027) 🚀
-
-<details>
-<summary>Show steps</summary>
+<tr><td><details>
+<summary><h2>Phase 2: Biomechanics (Feb 2026 - Feb 2027) 🚀</h2></summary>
 
 **Core Track**
 
@@ -32,50 +35,44 @@
 - [x] [**Project**: Room Lighting System](https://github.com/suneids/Light)
 - [x] [**Project**: Micro-greenhouse / plant automation platform](https://github.com/suneids/Greenhouse)
 - [ ] **Project**: Inductive flex/tension sensors
-</details>
+</details></td></tr>
 
+<tr><td><details>
+<summary><h2>Phase 3: Advanced Robotics (Feb 2027 - Feb 2028) ⏰</h2></summary>
 
-## Phase 3: Advanced Robotics (Feb 2027 - Feb 2028) ⏰
-
-<details>
-<summary>Show steps</summary>
-
-**Focus**: Complex Systems, Aesthetics, Advanced Integration.
+**Focus**: Complex Systems, Aesthetics, Advanced Integration
 
 **Core Track**
-- [ ] **Project**: Octopod (MK3) — Dwarven-style design, high-torque locomotion.
-- [ ] **Project**: The Mask — Integration of sensors, voice/visual feedback, and base for the manipulator.
-- [ ] **Project**: The Third Arm (Viktor/LoL Style) — Shoulder-mounted manipulator integrated with the Mask's control system.
-- [ ] **Skill**: Cyber-Aesthetics — Blending FreeCAD mechanical design with ergonomic wearable forms.
-- [ ] **Skill**: PCB Design — Transition from 2 to 4-layer boards (EMI/EMC focus).
+- [ ] **Project**: Octopod (MK3) —  High-torque multi-legged robotic platform
+- [ ] **Project**: The Mask — Wearable sensor and feedback system
+- [ ] **Project**: The Third Arm — Shoulder-mounted manipulator platform
+- [ ] **Skill**: Cyber-Aesthetics — Ergonomic mechanical design language
+- [ ] **Skill**: PCB Design — Transition from 2 to 4-layer boards (EMI/EMC focus)
 
 **Support / Infrastructure**
 - [ ] **Research**: Custom cable-driven tension sensors with integrated encoders
 
-</details>
+</details></td></tr>
+
+<tr><td><details>
+<summary><h2>Phase 4: Integration (2028 - 2029) ⏰</h2></summary>
+
+**Focus**: Human-Machine Interface (HMI) & Exoskeletons
+
+- [ ] Project: Full Exoskeleton Movement System — Merging glove control, IK, and high-power actuation into a wearable frame
+
+</details></td></tr>
 
 
-## Phase 4: Integration (2028 - 2029) ⏰
+<tr><td><details>
+<summary><h2>Phase 5: Evolution (2029 - 2030) ⏰</h2></summary>
 
-<details>
-<summary>Show steps</summary>
-
-**Focus**: Human-Machine Interface (HMI) & Exoskeletons.
-
-- [ ] Project: Full Exoskeleton Movement System — Merging glove control, IK, and high-power actuation into a wearable frame.
-
-</details>
-
-## Phase 5: Improvement of Developments (2029 - 2030) ⏰
-
-<details>
-<summary>Show steps</summary>
-
-**Focus**: Upgrade the developed devices to new versions
+**Focus**: Refinement and next-generation iterations
 
 [Details](github.com/Phase5plans)
 
 - [ ] Glove Mk.3
 
 
-</details>
+</details></td></tr>
+</table>
