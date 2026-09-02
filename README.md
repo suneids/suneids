@@ -5,7 +5,7 @@
 <h2>🛠 Engineering Roadmap: From Sensors to Exoskeletons</h2>
 
 <i>
-A long-term engineering journey from embedded systems and sensors to cybernetic augmentation. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</i>
+A long-term engineering journey from embedded systems and sensors to cybernetic augmentation. Tracking the evolution from low-level electronics and artificial reflexes to human-machine integration.</i>
 </td>
 </tr>
 
@@ -18,9 +18,9 @@ A long-term engineering journey from embedded systems and sensors to cybernetic 
 - [x] [**Project**: Glove MK2 — MPU6500 Fusion, DMA/ADC, Soft UART, Gesture Recognition](https://github.com/suneids/Glove)
 - [x] **Skill**: PCB Design — 2-layer boards (EMI/EMC focus)
 
-</details></td></tr>
+</details>
 
-<tr><td><details>
+<details>
 <summary><h2>Phase 2: Biomechanics (Feb 2026 - Feb 2027) 🚀</h2></summary>
 
 **Core Track**
@@ -35,9 +35,9 @@ A long-term engineering journey from embedded systems and sensors to cybernetic 
 - [x] [**Project**: Room Lighting System](https://github.com/suneids/Light)
 - [x] [**Project**: Micro-greenhouse / plant automation platform](https://github.com/suneids/Greenhouse)
 - [ ] **Project**: Inductive flex/tension sensors
-</details></td></tr>
+</details>
 
-<tr><td><details>
+<details>
 <summary><h2>Phase 3: Advanced Robotics (Feb 2027 - Feb 2028) ⏰</h2></summary>
 
 **Focus**: Complex Systems, Aesthetics, Advanced Integration
@@ -52,19 +52,19 @@ A long-term engineering journey from embedded systems and sensors to cybernetic 
 **Support / Infrastructure**
 - [ ] **Research**: Custom cable-driven tension sensors with integrated encoders
 
-</details></td></tr>
+</details>
 
-<tr><td><details>
+<details>
 <summary><h2>Phase 4: Integration (2028 - 2029) ⏰</h2></summary>
 
 **Focus**: Human-Machine Interface (HMI) & Exoskeletons
 
 - [ ] Project: Full Exoskeleton Movement System — Merging glove control, IK, and high-power actuation into a wearable frame
 
-</details></td></tr>
+</details>
 
 
-<tr><td><details>
+<details>
 <summary><h2>Phase 5: Evolution (2029 - 2030) ⏰</h2></summary>
 
 **Focus**: Refinement and next-generation iterations
