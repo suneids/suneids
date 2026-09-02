@@ -23,7 +23,7 @@
 
 <i>Core Track:</i>
 
-&nbsp;&nbsp;⛝ ~~**🦿Project: Quadruped (MK1)** — 4-leg movement, basic stability~~ — cancelled, replaced by Hexapod-first path
+&nbsp;&nbsp;⛝&nbsp;&nbsp;~~**🦿 Project: Quadruped (MK1)** — 4-leg movement, basic stability~~ — cancelled, replaced by Hexapod-first path
 - [ ] **🕷️ Project: Hexapod (MK1)** — Remote presence, 18-DOF control, IK implementation
       
 <i>Support / Infrastructure:</i>
