@@ -1,3 +1,50 @@
+
+## 🛠 Featured Engineering Projects
+
+<table width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/suneids/Hexapod">
+        <img src="assets/hexapod.gif" width="100%" alt="Hexapod">
+      </a>
+      <h3>
+        <a href="https://github.com/suneids/Hexapod">🕷️ Hexapod</a>
+      </h3>
+      <p>18 DOF · STM32 · CAN · Inverse Kinematics</p>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/suneids/Glove">
+        <img src="assets/glove-car.gif" width="100%" alt="Glove + Car">
+      </a>
+      <h3>
+        🧤 <a href="https://github.com/suneids/Glove">Glove MK2</a>
+        +
+        <a href="https://github.com/suneids/Car">RC Car MK2.5</a> 🚗
+      </h3>
+      <p>STM32 · IMU · Wearable HMI · Radio Control</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2" align="center">
+      <h3>
+        🔧 <a href="https://github.com/suneids/HAL_STM32F103C6T6">
+          STM32 Low-Level Drivers
+        </a>
+      </h3>
+      <p>
+        Register-level drivers · GPIO · UART · SPI ·
+        CAN/FDCAN · Modbus RTU · Flash/NVM
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+
+
+
 <table style="width:100%; border:1px solid #30363d;">
 <tr><td align="center">
 
