@@ -14,7 +14,7 @@
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/suneids/Glove">
-        <img src="assets/glove-car.gif" width="100%" alt="Glove + Car">
+        <img src="https://github.com/suneids/suneids/car-glove.gif" width="100%" alt="Glove + Car">
       </a>
       <h3>
         🧤 <a href="https://github.com/suneids/Glove">Glove MK2</a>
