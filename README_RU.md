@@ -1,11 +1,11 @@
 <table>
   <tr>
-    <td><a href="./README.md">🇬🇧 English</td>
+    <td><a href="./README.md">🇬🇧 English</a></td>
     <td><b>🇷🇺 Русский</b></td>
   </tr>
 </table>
 
-## 🛠 Featured Engineering Projects
+## 🛠 Избранные инженерные проекты
 
 <table width="100%">
   <tr>
@@ -16,7 +16,7 @@
       <h3>
         <a href="https://github.com/suneids/Hexapod">🕷️ Hexapod</a>
       </h3>
-      <p>18 DOF · STM32 · CAN · Inverse Kinematics</p>
+      <p>18 DOF · STM32 · CAN · Обратная кинематика</p>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/suneids/Glove">
@@ -28,7 +28,7 @@
         +
         <a href="https://github.com/suneids/Car">RC Car MK2.5</a> 🚗
       </h3>
-      <p>STM32 · IMU · Wearable HMI · Radio Control</p>
+      <p>STM32 · IMU · Носимый HMI · Радиоуправление</p>
     </td>
   </tr>
 
@@ -36,11 +36,11 @@
     <td colspan="2" align="center">
       <h3>
         🔧 <a href="https://github.com/suneids/HAL_STM32F103C6T6">
-          STM32 Low-Level Drivers
+          Низкоуровневые драйверы STM32
         </a>
       </h3>
       <p>
-        Register-level drivers · GPIO · UART · SPI ·
+        Драйверы на уровне регистров · GPIO · UART · SPI ·
         CAN/FDCAN · Modbus RTU · Flash/NVM
       </p>
     </td>
@@ -51,75 +51,75 @@
 <table style="width:100%; border:1px solid #30363d;">
 <tr><td align="center">
 
-<h2>🛠 Engineering Roadmap: From Sensors to Exoskeletons</h2>
+<h2>🛠 Инженерный roadmap: от датчиков до экзоскелетов</h2>
 
-<i>A long-term engineering journey from embedded systems and sensors to cybernetic augmentation. Tracking the evolution from low-level electronics and artificial reflexes to human-machine integration.</i>
+<i>Долгосрочный инженерный путь от embedded-систем и сенсоров к кибернетической аугментации. Эволюция от низкоуровневой электроники и искусственных рефлексов к интеграции человека и машины.</i>
 
 </td></tr>
 
 <tr><td><details>
-<summary><h2>🧬 Phase 1: Anatomy (Jul 2025 - Feb 2026) 🏁</h2></summary>
+<summary><h2>🧬 Этап 1: Анатомия (июль 2025 — февраль 2026) 🏁</h2></summary>
 
-<i>Focus: Sensor Fusion, Bare Metal Basics, Low-Level Protocols</i>
+<i>Фокус: слияние данных датчиков, основы Bare Metal, низкоуровневые протоколы</i>
 
-- [x] [**🚗 Project: Car v2.5** — STM32, PWM, Basic Radio (HC-05)](https://github.com/suneids/Car)
-- [x] [**🧤 Project: Glove MK2** — MPU6500 Fusion, DMA/ADC, Soft UART, Gesture Recognition](https://github.com/suneids/Glove)
-- [x] **🧩 Skill: PCB Design** — 2-layer boards (EMI/EMC focus)
+- [x] [**🚗 Проект: Car v2.5** — STM32, PWM, базовая радиосвязь (HC-05)](https://github.com/suneids/Car)
+- [x] [**🧤 Проект: Glove MK2** — обработка MPU6500, DMA/ADC, программный UART, распознавание жестов](https://github.com/suneids/Glove)
+- [x] **🧩 Навык: проектирование PCB** — двухслойные платы (фокус на EMI/EMC)
 
 </details></td></tr>
 
 <tr><td><details>
-<summary><h2>🦿 Phase 2: Biomechanics (Feb 2026 - Feb 2027) 🚀</h2></summary>
+<summary><h2>🦿 Этап 2: Биомеханика (февраль 2026 — февраль 2027) 🚀</h2></summary>
 
-<i>Core Track:</i>
+<i>Основное направление:</i>
 
-&nbsp;&nbsp;⛝&nbsp;&nbsp;~~**🦿 Project: Quadruped (MK1)** — 4-leg movement, basic stability~~ — cancelled, replaced by Hexapod-first path
-- [ ] **🕷️ Project: Hexapod (MK1)** — Remote presence, 18-DOF control, IK implementation
+&nbsp;&nbsp;⛝&nbsp;&nbsp;~~**🦿 Проект: Quadruped (MK1)** — движение на четырёх ногах, базовая устойчивость~~ — отменён, заменён на разработку Hexapod
+- [ ] **🕷️ Проект: Hexapod (MK1)** — дистанционное присутствие, управление 18 DOF, реализация обратной кинематики
       
-<i>Support / Infrastructure:</i>
+<i>Вспомогательные проекты / инфраструктура:</i>
 
-- [x] [**⚡ Project: Laboratory Power Supply Mk1**](https://github.com/suneids/PowerSupply)
-- [x] **🧠 Project: HAL for STM32G0**
-- [x] [**💡 Project: Room Lighting System**](https://github.com/suneids/Light)
-- [x] [**🌱 Project: Micro-greenhouse / plant automation platform**](https://github.com/suneids/Greenhouse)
-- [ ] **〰️ Project: Inductive flex/tension sensors**
+- [x] [**⚡ Проект: Лабораторный блок питания Mk1**](https://github.com/suneids/PowerSupply)
+- [x] **🧠 Проект: HAL для STM32G0**
+- [x] [**💡 Проект: Система освещения комнаты**](https://github.com/suneids/Light)
+- [x] [**🌱 Проект: Микротеплица / платформа автоматизации выращивания растений**](https://github.com/suneids/Greenhouse)
+- [ ] **〰️ Проект: Индуктивные датчики изгиба / натяжения**
 </details></td></tr>
 
 <tr><td><details>
-<summary><h2>🤖 Phase 3: Advanced Robotics (Feb 2027 - Feb 2028) ⏰</h2></summary>
+<summary><h2>🤖 Этап 3: Продвинутая робототехника (февраль 2027 — февраль 2028) ⏰</h2></summary>
 
-<i>Focus: Complex Systems, Aesthetics, Advanced Integration</i>
+<i>Фокус: сложные системы, эстетика, продвинутая интеграция</i>
 
-<i>Core Track:</i>
-- [ ] **🕷️ Project: Octopod (MK3)** —  High-torque multi-legged robotic platform
-- [ ] **🥽 Project: The Mask** — Wearable sensor and feedback system
-- [ ] **🦾 Project: The Third Arm** — Shoulder-mounted manipulator platform
-- [ ] **🎨 Skill: Cyber-Aesthetics** — Ergonomic mechanical design language
-- [ ] **🟩 Skill: PCB Design** — Transition from 2 to 4-layer boards (EMI/EMC focus)
+<i>Основное направление:</i>
+- [ ] **🕷️ Проект: Octopod (MK3)** — многоногая робототехническая платформа с мощными приводами
+- [ ] **🥽 Проект: The Mask** — носимая система датчиков и обратной связи
+- [ ] **🦾 Проект: The Third Arm** — манипулятор, устанавливаемый на плечо
+- [ ] **🎨 Навык: Киберэстетика** — эргономичный язык механического дизайна
+- [ ] **🟩 Навык: проектирование PCB** — переход от двухслойных к четырёхслойным платам (фокус на EMI/EMC)
 
-<i>Support / Infrastructure:</i>
-- [ ] **🔬 Research: Custom cable-driven tension sensors with integrated encoders**
+<i>Вспомогательные проекты / инфраструктура:</i>
+- [ ] **🔬 Исследование: Собственные тросовые датчики натяжения с интегрированными энкодерами**
 
 </details></td></tr>
 
 <tr><td><details>
-<summary><h2>🧠 Phase 4: Integration (2028 - 2029) ⏰</h2></summary>
+<summary><h2>🧠 Этап 4: Интеграция (2028 — 2029) ⏰</h2></summary>
 
-<i>Focus: Human-Machine Interface (HMI) & Exoskeletons</i>
+<i>Фокус: человеко-машинный интерфейс (HMI) и экзоскелеты</i>
 
-- [ ] **🦾 Project: Full Exoskeleton Movement System** — Merging glove control, IK, and high-power actuation into a wearable frame
+- [ ] **🦾 Проект: Полная система управления движением экзоскелета** — объединение управления перчаткой, обратной кинематики и мощных приводов в носимой конструкции
 
 </details></td></tr>
 
 
 <tr><td><details>
-<summary><h2>⚙️ Phase 5: Evolution (2029 - 2030) ⏰</h2></summary>
+<summary><h2>⚙️ Этап 5: Эволюция (2029 — 2030) ⏰</h2></summary>
 
-<i>Focus: Refinement and next-generation iterations</i>
+<i>Фокус: доработка и развитие систем следующего поколения</i>
 
-[Details](github.com/Phase5plans)
+[Подробнее](github.com/Phase5plans)
 
-- [ ] **🧤 Project: Glove Mk.3**
+- [ ] **🧤 Проект: Glove Mk.3**
 
 
 </details></td></tr>
