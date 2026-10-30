@@ -11,7 +11,7 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/suneids/Hexapod">
-        <img src="assets/hexapod.gif" width="100%" alt="Hexapod">
+        <img src="Hexapod.gif" width="100%" alt="Hexapod">
       </a>
       <h3>
         <a href="https://github.com/suneids/Hexapod">🕷️ Hexapod</a>
@@ -31,7 +31,20 @@
       <p>STM32 · IMU · Wearable HMI · Radio Control</p>
     </td>
   </tr>
-
+<tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/suneids/Hexapod">
+        <img src="Gauntlet.gif" width="100%" alt="Gauntlet">
+      </a>
+      <h3>
+        🔧 <a href="https://github.com/suneids/Gauntlet">
+          Gauntlet
+        </a>
+      </h3>
+      <p>
+      </p>
+    </td>
+  </tr>
   <tr>
     <td colspan="2" align="center">
       <h3>
@@ -82,6 +95,7 @@
 - [x] **🧠 Project: HAL for STM32G0**
 - [x] [**💡 Project: Room Lighting System**](https://github.com/suneids/Light)
 - [x] [**🌱 Project: Micro-greenhouse / plant automation platform**](https://github.com/suneids/Greenhouse)
+- [ ] [**🖥️ Project: Gauntlet** — Wearable Linux Engineering Terminal](https://github.com/suneids/Gauntlet)
 - [ ] **〰️ Project: Inductive flex/tension sensors**
 </details></td></tr>
 
