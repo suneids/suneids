@@ -14,7 +14,7 @@
         <img src="Hexapod.gif" width="100%" alt="Hexapod">
       </a>
       <h3>
-        <a href="https://github.com/suneids/Hexapod">🕷️ Hexapod</a>
+        🕷️<a href="https://github.com/suneids/Hexapod"> Hexapod</a>
       </h3>
       <p>18 DOF · STM32 · CAN · Inverse Kinematics</p>
     </td>
@@ -33,22 +33,23 @@
   </tr>
 <tr>
     <td colspan="2" align="center">
-      <a href="https://github.com/suneids/Hexapod">
+      <a href="https://github.com/suneids/Gauntlet">
         <img src="Gauntlet.gif" width="100%" alt="Gauntlet">
       </a>
       <h3>
-        🔧 <a href="https://github.com/suneids/Gauntlet">
+        🖥️ <a href="https://github.com/suneids/Gauntlet">
           Gauntlet
         </a>
       </h3>
       <p>
+        Linux · Qt · X11 · IPC · Modbus · Wearable Engineering Platform
       </p>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
       <h3>
-        🔧 <a href="https://github.com/suneids/HAL_STM32F103C6T6">
+        🔧 <a href="https://github.com/suneids/HAL">
           STM32 Low-Level Drivers
         </a>
       </h3>
@@ -75,7 +76,7 @@
 
 <i>Focus: Sensor Fusion, Bare Metal Basics, Low-Level Protocols</i>
 
-- [x] [**🚗 Project: Car v2.5** — STM32, PWM, Basic Radio (HC-05)](https://github.com/suneids/Car)
+- [x] [**🚗 Project: Car v2.5** — STM32, PWM, Bluetooth / 433 MHz Control](https://github.com/suneids/Car)
 - [x] [**🧤 Project: Glove MK2** — MPU6500 Fusion, DMA/ADC, Soft UART, Gesture Recognition](https://github.com/suneids/Glove)
 - [x] **🧩 Skill: PCB Design** — 2-layer boards (EMI/EMC focus)
 
@@ -92,7 +93,7 @@
 <i>Support / Infrastructure:</i>
 
 - [x] [**⚡ Project: Laboratory Power Supply Mk1**](https://github.com/suneids/PowerSupply)
-- [x] **🧠 Project: HAL for STM32G0**
+- [x] **🧠 Project: Multi-family STM32 HAL — F103 / G0 / G4**
 - [x] [**💡 Project: Room Lighting System**](https://github.com/suneids/Light)
 - [x] [**🌱 Project: Micro-greenhouse / plant automation platform**](https://github.com/suneids/Greenhouse)
 - [ ] [**🖥️ Project: Gauntlet** — Wearable Linux Engineering Terminal](https://github.com/suneids/Gauntlet)
@@ -130,8 +131,6 @@
 <summary><h2>⚙️ Phase 5: Evolution (2029 - 2030) ⏰</h2></summary>
 
 <i>Focus: Refinement and next-generation iterations</i>
-
-[Details](github.com/Phase5plans)
 
 - [ ] **🧤 Project: Glove Mk.3**
 
