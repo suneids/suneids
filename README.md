@@ -1,3 +1,9 @@
+<table>
+  <tr>
+    <td><b>🇬🇧 English</b></td>
+    <td><a href="./README_RU.md">🇷🇺 Русский</a></td>
+  </tr>
+</table>
 
 ## 🛠 Featured Engineering Projects
 
