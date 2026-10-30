@@ -47,10 +47,6 @@
   </tr>
 </table>
 
----
-
-
-
 
 <table style="width:100%; border:1px solid #30363d;">
 <tr><td align="center">
