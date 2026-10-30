@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td><a href="./README_RU.md">🇬🇧 English</td>
+    <td><a href="./README.md">🇬🇧 English</td>
     <td><b>🇷🇺 Русский</b></td>
   </tr>
 </table>
@@ -46,10 +46,6 @@
     </td>
   </tr>
 </table>
-
----
-
-
 
 
 <table style="width:100%; border:1px solid #30363d;">
